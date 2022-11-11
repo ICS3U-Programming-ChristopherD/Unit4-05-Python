@@ -8,7 +8,7 @@
 
 def main():
 
-    # Initializing sum string variable
+    # Initializing sum variables
     sum_string = ""
     sum_int = 0
 
